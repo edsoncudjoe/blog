@@ -1,4 +1,0 @@
-[submodule "edsoncudjoeblog/public"]
-	path = edsoncudjoeblog/public
-	url = https://github.com/edsoncudjoe/edsoncudjoe.github.io.git
-	branch = main
